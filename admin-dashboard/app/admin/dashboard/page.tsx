@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react";
 import Image from "next/image";
 import { sanityClient } from "@/sanity-nextjs/src/sanity/lib/client";
 import Swal from "sweetalert2";
-import ProtectedRoute from "@/app/components/protectedlayout/page";
+import ProtectedRoute from "@/app/components/protectedlayout/layout";
 import { urlFor } from "@/sanity-nextjs/src/sanity/lib/image";
 
 // import Swal from "sweetalert2";
