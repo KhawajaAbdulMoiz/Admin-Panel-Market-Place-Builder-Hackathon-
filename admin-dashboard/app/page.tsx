@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>Admin Dashboard</h1>
+      <h1>Change Your Path to "admin/dashboard"</h1>
     </div>
   );
 }
